@@ -1,0 +1,5 @@
+package com.crif.ticketbooking.controller;
+
+public class FlightControllerMockTest {
+
+}
